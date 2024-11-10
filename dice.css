@@ -23,3 +23,14 @@
     color: #4ECCA3;
     font-family: 'Indie Flower', cursive;
   }
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
